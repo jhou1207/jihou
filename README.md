@@ -1,2 +1,2 @@
-# jihou
-# Welcome to my Git! Hope you enjoy your journey here!
+### Hi
+#### Welcome to my Git! Hope you enjoy your journey here!
